@@ -31,4 +31,8 @@ public extension CodeEditor.ThemeName {
   @inlinable
   static var atelierSavannaDark : Self {
                Self(rawValue: "atelier-savanna-dark") }
+
+  @inlinable static var monokai : Self { Self(rawValue: "monokai") }
+  @inlinable static var routeros : Self { Self(rawValue: "routeros") }
+  @inlinable static var atomOneLight : Self { Self(rawValue: "atom-one-light") }
 }
